@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "dios",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "isjose.aternos.me",
